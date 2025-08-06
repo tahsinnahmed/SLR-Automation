@@ -1,0 +1,16 @@
+📄 File Type: BibTeX
+📂 Folder: D:/Duplication Remover/PRISMA/Wiley
+
+📑 Citations per file:
+   - pericles_exported_citations (1).bib: 5 citations
+   - pericles_exported_citations (2).bib: 7 citations
+   - pericles_exported_citations (3).bib: 3 citations
+   - pericles_exported_citations (4).bib: 4 citations
+   - pericles_exported_citations (5).bib: 5 citations
+   - pericles_exported_citations (6).bib: 5 citations
+   - pericles_exported_citations.bib: 11 citations
+
+📊 Total Bibliography Entries: 40
+🔁 Duplicate Entries Removed: 29
+✅ Unique Entries Saved: 11
+📤 Output File: deduplicated_output.bib
