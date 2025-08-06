@@ -1,0 +1,14 @@
+📄 File Type: BibTeX
+📂 Folder: D:/Duplication Remover/PRISMA/IEEE Xplore
+
+📑 Citations per file:
+   - IEEE Xplore Citation BibTeX Download 2025.8.2.14.2.51.bib: 9 citations
+   - IEEE Xplore Citation BibTeX Download 2025.8.2.14.4.1.bib: 1 citations
+   - IEEE Xplore Citation BibTeX Download 2025.8.2.14.4.23.bib: 5 citations
+   - IEEE Xplore Citation BibTeX Download 2025.8.2.14.4.53.bib: 1 citations
+   - IEEE Xplore Citation BibTeX Download 2025.8.2.14.5.22.bib: 1 citations
+
+📊 Total Bibliography Entries: 17
+🔁 Duplicate Entries Removed: 7
+✅ Unique Entries Saved: 10
+📤 Output File: deduplicated_output.bib
