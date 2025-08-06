@@ -1,0 +1,17 @@
+📄 File Type: BibTeX
+📂 Folder: D:/Duplication Remover/PRISMA/ScienceDirect
+
+📑 Citations per file:
+   - ScienceDirect_citations_1753784575408.bib: 100 citations
+   - ScienceDirect_citations_1753784588406.bib: 49 citations
+   - ScienceDirect_citations_1753790057938.bib: 37 citations
+   - ScienceDirect_citations_1753790116078.bib: 79 citations
+   - ScienceDirect_citations_1753790208098.bib: 35 citations
+   - ScienceDirect_citations_1753790236884.bib: 35 citations
+   - ScienceDirect_citations_1753790272642.bib: 38 citations
+   - ScienceDirect_citations_1753790299150.bib: 19 citations
+
+📊 Total Bibliography Entries: 392
+🔁 Duplicate Entries Removed: 237
+✅ Unique Entries Saved: 155
+📤 Output File: deduplicated_output.bib
