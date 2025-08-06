@@ -1,0 +1,16 @@
+📄 File Type: CSV
+📂 Folder: D:/Duplication Remover/PRISMA/Springer
+
+📑 Citations per file:
+   - (1) SearchResults.csv: 219 citations
+   - (2) SearchResults.csv: 111 citations
+   - (3) SearchResults.csv: 166 citations
+   - (4) SearchResults.csv: 49 citations
+   - (5) SearchResults.csv: 68 citations
+   - (6) SearchResults.csv: 113 citations
+   - (7) SearchResults.csv: 45 citations
+
+📊 Total Bibliography Entries: 771
+🔁 Duplicate Entries Removed: 538
+✅ Unique Entries Saved: 233
+📤 Output File: deduplicated_output.csv
