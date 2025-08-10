@@ -1,0 +1,19 @@
+📄 File Type: BibTeX
+📂 Folder: D:/Duplication Remover/Inclusion/Wiley
+📅 Filtering from 2020 to 2025
+🔍 Included only: Original Research and Conference Papers
+
+📑 File-wise Reference Count:
+   - deduplicated_output.bib:
+       Total References:   11
+       Matched (Filtered): 10
+       Ignored (Too Old/Wrong Type):  1
+
+📊 Total References Found:    11
+✅ Total References Included: 10
+❌ Total References Excluded: 1
+
+📝 Publication Type Breakdown (Before Final Filtering):
+   - Original Research: 10 ✅ INCLUDED
+
+📤 Output File: Included File.bib
