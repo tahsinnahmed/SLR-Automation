@@ -21,7 +21,7 @@ A Python-based utility to automatically detect and remove duplicate research ent
   - `deduplication_summary.txt`
  
   ## ✨ Inclusion-Exclusion Features
-- 📂 Select a folder containing `.csv` or `.bib` files.
+- 📂 Select a folder containing `deduplicated_output.csv` or `deduplicated_output.bib` files.
 - ⏳ Filter by a **starting year** (up to the current year).
 - 🌐 Look up publication type using **DOI** via Crossref API.
 - ✅ Keep only **Original Research** and **Conference Papers**.
