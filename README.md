@@ -4,7 +4,7 @@ A Python-based utility to automatically detect and remove duplicate research ent
 
 ---
 
-## 🚀 Features
+## 🚀 Deduplication Features
 
 - ✅ **Supports CSV and BibTeX files** – Automatically detects the file type and handles accordingly.
 - 🔍 **Accurate Duplicate Detection** – Matches entries based on normalized values of:
@@ -19,6 +19,15 @@ A Python-based utility to automatically detect and remove duplicate research ent
 - 💾 **Clean Output Files** – Saves:
   - `deduplicated_output.csv` or `deduplicated_output.bib`
   - `deduplication_summary.txt`
+ 
+  ## ✨ Inclusion-Exclusion Features
+- 📂 Select a folder containing `.csv` or `.bib` files.
+- ⏳ Filter by a **starting year** (up to the current year).
+- 🌐 Look up publication type using **DOI** via Crossref API.
+- ✅ Keep only **Original Research** and **Conference Papers**.
+- 📊 Save:
+  - Filtered references to a new file (`Included File.csv` or `Included File.bib`).
+  - A **summary report** (`Inclusion Summary.txt`).
 
 ---
 
