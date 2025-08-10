@@ -1,0 +1,20 @@
+📄 File Type: BibTeX
+📂 Folder: D:/Duplication Remover/Inclusion/ScienceDirect
+📅 Filtering from 2020 to 2025
+🔍 Included only: Original Research and Conference Papers
+
+📑 File-wise Reference Count:
+   - deduplicated_output.bib:
+       Total References:   155
+       Matched (Filtered): 81
+       Ignored (Too Old/Wrong Type):  74
+
+📊 Total References Found:    155
+✅ Total References Included: 81
+❌ Total References Excluded: 74
+
+📝 Publication Type Breakdown (Before Final Filtering):
+   - Original Research: 81 ✅ INCLUDED
+   - Other: 8 ❌ EXCLUDED
+
+📤 Output File: Included File.bib
