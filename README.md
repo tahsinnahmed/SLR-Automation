@@ -1,6 +1,6 @@
-# 📚 Duplicate Papers Detection
+# 📚 SLR Automation
 
-A Python-based utility to automatically detect and remove duplicate research entries from **BibTeX (.bib)** or **CSV (.csv)** files. Perfect for researchers, students, and librarians managing large bibliographic datasets for literature reviews, systematic reviews, or personal research libraries.
+A Python-based utility to automatically detect and remove duplicate research entries from **BibTeX (.bib)** or **CSV (.csv)** files. Perfect for researchers, students, and librarians managing large bibliographic datasets for literature reviews, systematic reviews, or personal research libraries. Also, it searches several referral articles and matches with the inclusion and exclusion criteria. Lastly, it finalizes those final candidate articles that fit accurately.
 
 ---
 
